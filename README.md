@@ -10,7 +10,7 @@ I wanted something where I can dump my thoughts as an audio and then have it tra
 
 ## Installation
 
-Needs python version 3.6>
+Needs python version > 3.6
 
 `python3 -m venv venv`
 
